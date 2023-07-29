@@ -6,35 +6,36 @@ A flutter application : UniFIND that lists all the universities for every valid 
 <table>
   <tr>
     <td align="center">
-      <img src="Page1.png" alt="Screenshot 1" width="200"/>
+      <img src="![Page1](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/6def9302-2992-4cdc-aeea-efbf4adc1563)
+" alt="Page1" width="200"/>
     </td>
     <td align="center">
-      <img src="Page2.png" alt="Screenshot 2" width="200"/>
+      <img src="![Page2](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/f96f75a3-8f2d-4bc2-867d-b2473e5828f7)
+" alt="Page2" width="200"/>
     </td>
     <td align="center">
-      <img src="Page3.png" alt="Screenshot 3" width="200"/>
+      <img src="![Page3](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/096103af-0463-4ff2-9bf8-f0f0da5a0162)
+" alt="Page3" width="200"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Page4.png" alt="Screenshot 4" width="200"/>
+      <img src="![Page4](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/4a6a7369-9086-490d-bcf3-f6dc82de53a2)
+" alt="Page4" width="200"/>
     </td>
     <td align="center">
-      <img src="Page5.png" alt="Screenshot 5" width="200"/>
+      <img src="![Page5](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/69c2723a-d90c-4277-8afa-c608a4f4c2a0)
+" alt="Page5" width="200"/>
     </td>
     <td align="center">
-      <img src="Page6.png" alt="Screenshot 6" width="200"/>
+      <img src="![Page6](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/89767e79-fa85-4169-b312-36c0d929ad4d)
+" alt="Page6" width="200"/>
     </td>
   </tr>
 </table>
 
 
-![Page1](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/d9397df2-00a1-4cc1-89f2-d8c02ff9275e)
-![Page2](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/882f6e5f-b833-4f4d-8933-34987c0cb81b)
-![Page3](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/c0a52a94-d289-4743-9bea-86d511b57ded)
-![Page4](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/e4681a36-1cf9-4d79-8ec0-51d2fc82b7e0)
-![Page5](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/4ca68e9c-5f82-4735-bd89-851eea6fac80)
-![Page6](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/ead31e89-0dc3-4ddf-9422-31558e1f4cae)
+
 
 
 
