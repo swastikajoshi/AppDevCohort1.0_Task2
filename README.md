@@ -2,6 +2,7 @@ A flutter application : UniFIND that lists all the universities for every valid 
 
 🔗 API Link: http://universities.hipolabs.com/search?country=India
 
+
 ![Screenshots](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/ee91cf8a-5135-4025-bbe2-07f33efc4f7b)
 
 
