@@ -2,6 +2,33 @@ A flutter application : UniFIND that lists all the universities for every valid 
 
 🔗 API Link: http://universities.hipolabs.com/search?country=India
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Page1.png" alt="Screenshot 1" width="200"/>
+    </td>
+    <td align="center">
+      <img src="Page2.png" alt="Screenshot 2" width="200"/>
+    </td>
+    <td align="center">
+      <img src="Page3.png" alt="Screenshot 3" width="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Page4.png" alt="Screenshot 4" width="200"/>
+    </td>
+    <td align="center">
+      <img src="Page5.png" alt="Screenshot 5" width="200"/>
+    </td>
+    <td align="center">
+      <img src="Page6.png" alt="Screenshot 6" width="200"/>
+    </td>
+  </tr>
+</table>
+
+
 ![Page1](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/d9397df2-00a1-4cc1-89f2-d8c02ff9275e)
 ![Page2](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/882f6e5f-b833-4f4d-8933-34987c0cb81b)
 ![Page3](https://github.com/swastikajoshi/AppDevCohort1.0_Task2/assets/98214598/c0a52a94-d289-4743-9bea-86d511b57ded)
